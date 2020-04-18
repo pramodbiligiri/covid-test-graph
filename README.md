@@ -5,4 +5,4 @@ https://www.centerforhealthsecurity.org/resources/COVID-19/serology/Serology-bas
 Run as: python covid-test-graph.py and you should see the graph showing up in a pop up window.
 The Sensitivity and Specificity values can be tweaked by editing the above python file itself.
 
-Requirements: Uses matplotlib
+Requirements: Python, matplotlib library
